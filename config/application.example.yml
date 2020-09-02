@@ -1,0 +1,5 @@
+DEV_DB_USER:                 <%= `postgres`.chomp %>
+DEV_DB_PASSWORD:             <%= `postgres`.chomp %>
+TEST_DB_USER:                <%= `postgres`.chomp %>
+TEST_DB_PASSWORD:            <%= `postgres`.chomp %>
+STRIPE_SECRET_KEY:           "sk_test_xxyyzz"
