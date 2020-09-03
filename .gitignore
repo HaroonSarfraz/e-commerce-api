@@ -21,8 +21,16 @@
 /yarn-error.log
 
 /public/assets
+/public/cache
+/public/stylesheets/compiled
+/public/system/*
+/public/uploads/*
+/public/packs-test/*
+
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 /config/application.yml
+
+/.vscode
